@@ -1,6 +1,6 @@
 package ex_01_Java_Basic;
 
-public class LAB_Comments {
+public class LAB002_Comments {
     public static void main(String[] args) {
         //Author - deepa
         /*this comment is used anywhere between codes.
