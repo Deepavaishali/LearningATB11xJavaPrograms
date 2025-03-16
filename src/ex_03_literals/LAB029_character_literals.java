@@ -39,7 +39,8 @@ all good
         //but we can use unicode which is unlimited
         char smiley = '\u1f60';//unicode value of smiley
         System.out.println(smiley);//in unicode, smiley is also one of the character
-
+char c6='₹';
+        System.out.println(c6);
 
     }
 }
