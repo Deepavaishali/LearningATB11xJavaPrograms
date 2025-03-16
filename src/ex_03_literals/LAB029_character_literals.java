@@ -34,5 +34,12 @@ vaishali
 all good
          */
 
+        char c4= 'A';
+        //ASCII code has limited values, bcoz of maerican standars
+        //but we can use unicode which is unlimited
+        char smiley = '\u1f60';//unicode value of smiley
+        System.out.println(smiley);//in unicode, smiley is also one of the character
+
+
     }
 }
